@@ -24,3 +24,6 @@
 #### Poniendo en práctica conocimientos de .lenght, .push y for.
 ### Search: Crea una función que busque un elemento en un array, devolviendo su posición (index) e imprima el valor en la consola.
 #### Poniendo en práctica algoritmo.
+## Object
+### Array to Object: Escribe una función que tome un array 2D y devuelva un objeto con cada par de elementos en el array como un par key-value. 
+#### Poniendo en práctica .lenght y object.

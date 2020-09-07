@@ -22,3 +22,5 @@
 ## Array
 ### Reverse: Crea una función que invierta el orden de los elementos de un array. Completa este reto de dos maneras: en una, el array invertido es un nuevo array; en la segunda, modifica el mismo array que se proporciona como argumento.
 #### Poniendo en práctica conocimientos de .lenght, .push y for.
+### Search: Crea una función que busque un elemento en un array, devolviendo su posición (index) e imprima el valor en la consola.
+#### Poniendo en práctica algoritmo.

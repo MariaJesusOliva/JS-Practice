@@ -11,3 +11,5 @@
 ## Control de flujo
 ### FizzBuzz: Escribe un programa que use console.log para imprimir todos los números del 1 al 100, con dos excepciones: Para números divisibles por 3, imprime "Fizz" en vez del número y para números divisibles por 5 (pero no por 3), imprime "Buzz".Cuando tengas eso funcionando, modifica tu programa para imprimir "FizzBuzz" para los números que sean divisibles tanto por 3 como por 5 (y que siga imprimiendo "Fizz" o "Buzz" para números divisibles por sólo uno de ellos).
 #### Poniendo en práctica conocimientos de for, if...else y % .
+### Ordenando comida: Imagina que estás pidiendo comida en un restaurante. Tu plato favorito es ceviche, así que lo elegirías si está en el menú. Si no hay ceviche, elegirías tacos al pastor. Si eso no está, te irías por empanada chilena. En el caso raro que ninguna de esas opciones esté disponible, te irías por una hamburguesa. Escribe una función, que de acuerdo a la disponibilidad de los platos en el menú, decidas qué ordenar.
+#### Poniendo en práctica conocimientos de switch y alert().

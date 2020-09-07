@@ -19,3 +19,6 @@
 #### Poniendo en práctica conocimientos de parseInt, if...else.
 ### Contando carácteres: Crea una web que pida, por medio de un prompt(), una frase al usuario. La web debe presentar un mensaje que diga: el número de caracteres y de espacios que componen el string ingresado. En la consola, debe aparecer cada caracter impreso en una línea separada, en mayúscula. Si el usuario ingresa un campo vacío, la web debe dar un mensaje de error.
 #### Poniendo en práctica conocimientos de .value, .lenght y .push.
+## Array
+### Reverse: Crea una función que invierta el orden de los elementos de un array. Completa este reto de dos maneras: en una, el array invertido es un nuevo array; en la segunda, modifica el mismo array que se proporciona como argumento.
+#### Poniendo en práctica conocimientos de .lenght, .push y for.

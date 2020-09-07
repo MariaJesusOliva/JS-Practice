@@ -17,3 +17,5 @@
 #### Poniendo en práctica conocimientos de const, add y multiply.
 ### Edades y etapas: Crea una web que pida, por medio de un prompt(), la edad de una persona, en años. Dependiendo del número brindado, la web debe dar un mensaje que clasifica a la persona en: toddler, preschooler, gradeschooler, teenager, young adult and adult.
 #### Poniendo en práctica conocimientos de parseInt, if...else.
+### Contando carácteres: Crea una web que pida, por medio de un prompt(), una frase al usuario. La web debe presentar un mensaje que diga: el número de caracteres y de espacios que componen el string ingresado. En la consola, debe aparecer cada caracter impreso en una línea separada, en mayúscula. Si el usuario ingresa un campo vacío, la web debe dar un mensaje de error.
+#### Poniendo en práctica conocimientos de .value, .lenght y .push.

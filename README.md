@@ -15,3 +15,5 @@
 #### Poniendo en práctica conocimientos de switch y alert().
 ### Funciones matemáticas: Crea dos funciones, add y multiply. Cada una debe tomar dos argumentos. La función add debe sumar sus argumentos y devolver el resultado. La funcion multiply debe multiplicar sus argumentos. Usando solamente estas dos funciones, resuelva este simple problema matemático: 36325 * (9824 + 777).
 #### Poniendo en práctica conocimientos de const, add y multiply.
+### Edades y etapas: Crea una web que pida, por medio de un prompt(), la edad de una persona, en años. Dependiendo del número brindado, la web debe dar un mensaje que clasifica a la persona en: toddler, preschooler, gradeschooler, teenager, young adult and adult
+#### Poniendo en práctica conocimientos de parseInt, if...else.

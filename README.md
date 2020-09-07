@@ -13,3 +13,5 @@
 #### Poniendo en práctica conocimientos de for, if...else y % .
 ### Ordenando comida: Imagina que estás pidiendo comida en un restaurante. Tu plato favorito es ceviche, así que lo elegirías si está en el menú. Si no hay ceviche, elegirías tacos al pastor. Si eso no está, te irías por empanada chilena. En el caso raro que ninguna de esas opciones esté disponible, te irías por una hamburguesa. Escribe una función, que de acuerdo a la disponibilidad de los platos en el menú, decidas qué ordenar.
 #### Poniendo en práctica conocimientos de switch y alert().
+### Funciones matemáticas: Crea dos funciones, add y multiply. Cada una debe tomar dos argumentos. La función add debe sumar sus argumentos y devolver el resultado. La funcion multiply debe multiplicar sus argumentos. Usando solamente estas dos funciones, resuelva este simple problema matemático: 36325 * (9824 + 777).
+#### Poniendo en práctica conocimientos de const, add y multiply.

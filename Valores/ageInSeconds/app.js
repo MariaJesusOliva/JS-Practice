@@ -1,5 +1,5 @@
 
-//Ask age
+//Ask agegit 
 const age = prompt("¿Cuál es tu edad?");
 //Turn age into seconds
 const ageInSeconds = age*365*24*60*60;

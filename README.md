@@ -8,3 +8,6 @@
 #### Poniendo en práctica conocimientos de prompt(), document.write() y Operadores Aritméticos.
 ### Iniciales: Crea un programa que pide el nombre y apellido al usuario. El usuario debe ingresar dos palabras separadas por un espacio, por ejemplo: "Ana Martinez". El programa debe devolver las iniciales en mayúsculas. Veamos unos ejemplos: "ana martinez" y "Ana Martinez" devuelven las iniciales "AM". "Michelle Seguil" y "michelle seguil" devuelven "MS".
 #### Poniendo en práctica conocimientos de .slice(), .indexOf(), .toUpperCase().
+## Control de flujo
+### FizzBuzz: Escribe un programa que use console.log para imprimir todos los números del 1 al 100, con dos excepciones: Para números divisibles por 3, imprime "Fizz" en vez del número y para números divisibles por 5 (pero no por 3), imprime "Buzz".Cuando tengas eso funcionando, modifica tu programa para imprimir "FizzBuzz" para los números que sean divisibles tanto por 3 como por 5 (y que siga imprimiendo "Fizz" o "Buzz" para números divisibles por sólo uno de ellos).
+#### Poniendo en práctica conocimientos de for, if...else y % .
